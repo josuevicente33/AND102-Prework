@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AND102 Prework</string>
+    <string name="JosueIntro">Hello World! My name is Josue Vicente and this is me in Antigua,
+        Guatemala a few years back. It\'s a beautiful city! I have some experience with the deployment
+        of Android apps but I am excited to learn more about how to build them in a more structured way.
+    </string>
+    <string name="button">Say Hello!</string>
+    <string name="prevButtonText">Show Previous Work Pic and Info</string>
+    <string name="meImageDesc">Picture of me</string>
+    <string name="prevWorkImageDesc">Previous Work Image</string>
+    <string name="prevWorkText">A calendar page done in Compose. I worked on repositories, room databases, shared preferences, navigation, notifications and more!</string>
 </resources>
