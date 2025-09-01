@@ -1,104 +1,58 @@
-# \# Android Prework - \*Name of App Here\*
+# Android Prework - *AND102 Prework*
 
-# 
+Submitted by: **Josue Vicente**
 
-# Submitted by: \*\*Your Name Here\*\*
+**AND102 Prework** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+ 
 
-# 
+Time spent: **2** hours spent in total
+ 
 
-# \*\*Name of your app\*\* is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+## Required Features
+ 
 
-# 
+The following **required** functionality is completed:
 
-# Time spent: \*\*X\*\* hours spent in total
 
-# 
+* [Y] Image and introductory message displayed on screen
+* [Y] Button displayed on screen
+* [Y] Toast with message appears when button is pressed 
 
-# \## Required Features
 
-# 
+The following **optional** features are implemented:
+ 
 
-# The following \*\*required\*\* functionality is completed:
+* [Y] Added a second button that displays a previous work I have done.
+* [Y] Added a an image to display the work and a small description of it.
 
-# 
 
-# \* \[ ] Image and introductory message displayed on screen
+## Video Walkthrough
+ 
 
-# \* \[ ] Button displayed on screen
+Here's a walkthrough of implemented features:
 
-# \* \[ ] Toast with message appears when button is pressed 
-
-# 
-
-# The following \*\*optional\*\* features are implemented:
-
-# 
-
-# \* \[ ] List anything else that you can get done to improve the app functionality!
-
-# 
-
-# \## Video Walkthrough
-
-# 
-
-# Here's a walkthrough of implemented features:
-
-# 
-
-# <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-# 
-
-# <!-- Replace this with whatever GIF tool you used! -->
+# <img src='https://imgur.com/a/VxSyjBa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # GIF created with ...  
 
-# <!-- Recommended tools:
+[ScreenToGif](https://www.screentogif.com/) for Windows 
 
-# \[Kap](https://getkap.co/) for macOS
+## Notes
 
-# \[ScreenToGif](https://www.screentogif.com/) for Windows
+I had not worked with XML files in a long time so I spent some time learning but it was intuitive 
+and seems to be the precursor of Jetpack Compose. 
 
-# \[peek](https://github.com/phw/peek) for Linux. -->
 
-# 
+## License
 
-# \## Notes
-
-# 
-
-# Describe any challenges encountered while building the app.
-
-# 
-
-# \## License
-
-# 
-
-# &nbsp;   Copyright \[yyyy] \[name of copyright owner]
-
-# 
-
-# &nbsp;   Licensed under the Apache License, Version 2.0 (the "License");
-
-# &nbsp;   you may not use this file except in compliance with the License.
-
-# &nbsp;   You may obtain a copy of the License at
-
-# 
-
-# &nbsp;       http://www.apache.org/licenses/LICENSE-2.0
-
-# 
-
-# &nbsp;   Unless required by applicable law or agreed to in writing, software
-
-# &nbsp;   distributed under the License is distributed on an "AS IS" BASIS,
-
-# &nbsp;   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-
-# &nbsp;   See the License for the specific language governing permissions and
-
-# &nbsp;   limitations under the License.
+&nbsp;   Copyright \[2025] \[Josue Vicente]
+&nbsp;   Licensed under the Apache License, Version 2.0 (the "License");
+&nbsp;   you may not use this file except in compliance with the License.
+&nbsp;   You may obtain a copy of the License at
+&nbsp;       http://www.apache.org/licenses/LICENSE-2.0
+&nbsp;   Unless required by applicable law or agreed to in writing, software
+&nbsp;   distributed under the License is distributed on an "AS IS" BASIS,
+&nbsp;   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+&nbsp;   See the License for the specific language governing permissions and
+&nbsp;   limitations under the License.
 

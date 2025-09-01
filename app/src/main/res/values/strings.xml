@@ -8,5 +8,6 @@
     <string name="prevButtonText">Show Previous Work Pic and Info</string>
     <string name="meImageDesc">Picture of me</string>
     <string name="prevWorkImageDesc">Previous Work Image</string>
-    <string name="prevWorkText">A calendar page done in Compose. I worked on repositories, room databases, shared preferences, navigation, notifications and more!</string>
+    <string name="prevWorkText">A calendar page done in Compose to help gather events for the SHPE UF organization.
+        I worked on repositories, room databases, shared preferences, notifications and more!</string>
 </resources>
