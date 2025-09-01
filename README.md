@@ -27,11 +27,10 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough
- 
 
 Here's a walkthrough of implemented features:
 
-# <img src='https://imgur.com/a/VxSyjBa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+# <img src='AND102 Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # GIF created with ...  
 
